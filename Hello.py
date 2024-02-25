@@ -24,7 +24,7 @@ def run():
         page_icon="👋",
     )
 
-    st.write("# OTCO tes t! 👋")
+    st.write("# OTCO test! 👋")
 
     st.sidebar.success("Select a demo above.")
 
