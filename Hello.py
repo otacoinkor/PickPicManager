@@ -24,7 +24,7 @@ def run():
         page_icon="👋",
     )
 
-    st.write("# OTCO check push! 👋")
+    st.write("# OTCO check push dont shake table! 👋")
 
     st.sidebar.success("Select a demo above.")
 
